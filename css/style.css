@@ -1,0 +1,14 @@
+.wrapper {
+	width: 100%;
+	max-width: 1366px;
+	margin: auto;
+}
+@media (min-width: 992px){
+	.navbar-expand-lg .navbar-nav .nav-link{
+		padding: 0 2rem;
+	}
+}
+.konten {
+	width: 1050px;
+	margin: 50px auto;
+}
